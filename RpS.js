@@ -96,6 +96,8 @@ function game(){
         round.textContent ="Its a tie!";
     }
     roundCount = 0;
+    win = 0;
+    lose = 0;
     }
     }
     function p(e){
@@ -125,6 +127,8 @@ function game(){
         round.textContent ="Its a tie!";
     }
     roundCount = 0;
+    win = 0;
+    lose = 0;
     }
 }
     function s(e){
@@ -154,6 +158,8 @@ function game(){
         round.textContent ="Its a tie!";
     }
     roundCount = 0;
+    win = 0;
+    lose = 0;
     }
     }
     
